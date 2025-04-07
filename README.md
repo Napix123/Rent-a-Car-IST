@@ -1,4 +1,4 @@
-# Rent-a-Car (IST)
+# Rent-a-Car 
 
 This is a university project where I developed a full-stack Rent-a-Car web application from scratch. The project features a React frontend for a dynamic and responsive user interface, an Express (Node.js) backend for handling API requests and server-side logic, and a MongoDB database for storing data.
 
