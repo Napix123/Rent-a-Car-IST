@@ -15,7 +15,7 @@ The application includes full CRUD functionality, allowing users to create, read
 
   📜 Rental history per user
 
-  🛠️ Vehicle management for admins (add, edit, delete)
+  🛠️ Vehicle management (add, edit, delete)
 
   📋 Vehicle listing sorted by model, showing availability and average rating
 
